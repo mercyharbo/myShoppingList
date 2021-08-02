@@ -65,3 +65,16 @@ ul li button {
     outline: 0;
     border-radius: 5px;
 }
+
+@media screen and (max-width: 769px) {
+    body {
+        padding: 5%;
+    }
+
+    h1 {
+        font-size: 2rem;
+    }
+    .myForm {
+       width: 100%;
+    }
+}

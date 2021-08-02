@@ -1,13 +1,4 @@
 let button = document.querySelector('button');
-button.disabled = true;
-    
-document.querySelector('#item').addEventListener('change', () => {
-    if (document.querySelector('#item').value === '') {
-        button.disabled = true;
-    } else {
-        button.disabled = false;
-    }
-})
 
 //Create a function that will run in response to the button on clicked
 button.addEventListener('click', (e) => {
