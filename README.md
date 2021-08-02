@@ -4,6 +4,8 @@ This is a shopping cart that perform simple task like adding, removing shopping 
 
 # Screenshot 
 
+![image](https://user-images.githubusercontent.com/64808015/127793141-3afb9525-4775-49db-b5c3-bd3227fa8c1f.png)
+
 
 # Built with 
 - HTML5
